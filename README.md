@@ -47,12 +47,3 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Miro badge](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-- 📊 Some Github stats for you
-
-<a href="https://github.com/a160v/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-seven-red-18.vercel.app/api?username=a160v" />
-</a>
-<a href="https://github.com/a160v/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-seven-red-18.vercel.app/api/top-langs?username=a160v&layout=compact&langs_count=8&card_width=320" />
-</a>
